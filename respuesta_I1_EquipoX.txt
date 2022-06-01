@@ -2,6 +2,5 @@ Ledesma Leonel
 Orpelli Renzo
 Pardo Roberto
 
-a) Si, ALFA ve todos los archivos que cargaron los demas.
 
-b) Si, ALFA agrega un archivo al repositorio, pusheandolo. El resto los ve
+e) La mejor forma de comunicarnos dentro de git es a traves del project 
